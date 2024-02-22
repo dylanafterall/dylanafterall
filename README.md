@@ -1,6 +1,6 @@
 <!--- Connect With Me Icons -->
 [![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dylanec/) &emsp;
-[![](https://skillicons.dev/icons?i=gmail)](mailto:campbell.dyl@gmail.com) &emsp;
+[![](https://skillicons.dev/icons?i=gmail)](mailto:dyl@mailbox.org) &emsp;
 [![](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/dylanafterall) &emsp;
 [![](https://skillicons.dev/icons?i=mastodon)](https://mastodon.gamedev.place/@dylanafterall)
 
@@ -46,8 +46,8 @@
 <!--- Skills Icons -->
 <p align="center">
   <a href="https://github.com/tandpfun/skill-icons">
-    <img src="https://skillicons.dev/icons?i=rust,c,cpp,cs,java,py,latex" />  <br />
-    <img src="https://skillicons.dev/icons?i=clion,rider,idea,vscode,neovim,vim" />  <br />
+    <img src="https://skillicons.dev/icons?i=rust,c,cpp,cs,java,py,lua" />  <br />
+    <img src="https://skillicons.dev/icons?i=neovim,vim,clion,rider,idea,vscode" />  <br />
     <img src="https://skillicons.dev/icons?i=bash,git,github,gitlab,cmake" />  <br />
     <img src="https://skillicons.dev/icons?i=apple,ubuntu,arch" />  <br />
     <img src="https://skillicons.dev/icons?i=bevy,godot" />
