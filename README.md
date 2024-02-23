@@ -57,3 +57,17 @@
 </p>
 
 <pre></pre>
+
+### Current Projects:
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=dylanafterall&repo=rust_notes&theme=transparent)](https://github.com/dylanafterall/rust_notes)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=dylanafterall&repo=bevy_core_lab&theme=transparent)](https://github.com/dylanafterall/bevy_core_lab)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=dylanafterall&repo=bevy_physics_lab&theme=transparent)](https://github.com/dylanafterall/bevy_physics_lab)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=dylanafterall&repo=bevy_gpu_lab&theme=transparent)](https://github.com/dylanafterall/bevy_gpu_lab)
+
+### Archived Projects:
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=dylanafterall&repo=OnsetEngine&theme=transparent)](https://github.com/dylanafterall/OnsetEngine)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=dylanafterall&repo=cpu_3d_renderer&theme=transparent)](https://github.com/dylanafterall/cpu_3d_renderer)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=dylanafterall&repo=HomeAgain&theme=transparent)](https://github.com/dylanafterall/HomeAgain)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=dylanafterall&repo=assembly_8bit_game&theme=transparent)](https://github.com/dylanafterall/assembly_8bit_game)
