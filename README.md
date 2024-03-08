@@ -58,9 +58,8 @@
 
 <pre></pre>
 
-### Current Projects:
+### Current Fun Projects:
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=dylanafterall&repo=rust_notes&theme=transparent)](https://github.com/dylanafterall/rust_notes)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=dylanafterall&repo=bevy_core_lab&theme=transparent)](https://github.com/dylanafterall/bevy_core_lab)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=dylanafterall&repo=bevy_physics_lab&theme=transparent)](https://github.com/dylanafterall/bevy_physics_lab)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=dylanafterall&repo=bevy_gpu_lab&theme=transparent)](https://github.com/dylanafterall/bevy_gpu_lab)
