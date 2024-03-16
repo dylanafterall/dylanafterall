@@ -11,7 +11,7 @@
 <!--- About Me Section -->
 <h3>
 <ul>
-  <li>&emsp; :video_game: &ensp; Pursuing B.S. Computer Science: Computer Game Design, UC Santa Cruz</li>
+  <li>&emsp; :video_game: &ensp; Pursuing B.S. Applied Mathematics, UC Santa Cruz</li>
   <li>&emsp; :computer: &ensp; A.S. Computer Engineering, Ohlone College</li>
   <li>&emsp; :wrench: &ensp; USN Veteran / Submariner / Engineering Laboratory Technician</li>
   <li>&emsp; :bird: &ensp; Birdwatcher (exclusively Orioles :orange_circle::black_circle: and Ravens :purple_circle::black_circle:)</li>
