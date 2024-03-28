@@ -47,7 +47,7 @@
 <!--- Skills Icons -->
 <p align="center">
   <a href="https://github.com/tandpfun/skill-icons">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,rust,py,bash" />  <br />
+    <img src="https://skillicons.dev/icons?i=html,css,js,rust,c,cpp,py,bash" />  <br />
     <img src="https://skillicons.dev/icons?i=postgres,express,react,nodejs,git,github,cmake" />  <br />
     <img src="https://skillicons.dev/icons?i=webstorm,clion,neovim,vscode" />  <br />
     <img src="https://skillicons.dev/icons?i=apple,ubuntu,arch" />  <br />
