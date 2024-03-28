@@ -2,7 +2,7 @@
 
 <!--- Connect With Me Icons -->
 [![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dylanec/) &emsp;
-[![](https://skillicons.dev/icons?i=gmail)](mailto:dyl@mailbox.org) &emsp;
+[![](https://skillicons.dev/icons?i=gmail)](mailto:campbell.dyl@gmail.com) &emsp;
 [![](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/dylanafterall) &emsp;
 [![](https://skillicons.dev/icons?i=mastodon)](https://mastodon.gamedev.place/@dylanafterall)
 
@@ -20,12 +20,12 @@
 <pre></pre>
 
 <h4>
-<p>I am interested in learning all aspects of game development, and welcome any opportunity to improve my skills. </br>
+<p>I mostly use my github to explore game development projects for fun.  </br>
   
   Current interests:
   <ul>
-    <li>The Rust programming language (emphasis on DSA)</li>
-    <li>The Bevy game engine</li>
+    <li>Practicing Data Structures and Algorithms with Go</li>
+    <li>Exploring the Bevy game engine and Rust</li>
     <li>GPU programming (WebGPU API and WGSL)</li>
     <li>Procedural Sound generation</li>
   </ul>
@@ -47,9 +47,9 @@
 <!--- Skills Icons -->
 <p align="center">
   <a href="https://github.com/tandpfun/skill-icons">
-    <img src="https://skillicons.dev/icons?i=rust,go,c,cpp,cs,py,lua" />  <br />
-    <img src="https://skillicons.dev/icons?i=neovim,vim,clion,rider,idea,vscode" />  <br />
-    <img src="https://skillicons.dev/icons?i=bash,git,github,gitlab,cmake" />  <br />
+    <img src="https://skillicons.dev/icons?i=html,css,js,go,c,cpp,rust,py,bash" />  <br />
+    <img src="https://skillicons.dev/icons?i=postgres,express,react,nodejs,git,github,gitlab,cmake" />  <br />
+    <img src="https://skillicons.dev/icons?i=webstorm,clion,neovim,vscode" />  <br />
     <img src="https://skillicons.dev/icons?i=apple,ubuntu,arch" />  <br />
     <img src="https://skillicons.dev/icons?i=bevy,godot" />
   </a>
