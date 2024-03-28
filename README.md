@@ -24,7 +24,7 @@
   
   Current interests:
   <ul>
-    <li>Practicing Data Structures and Algorithms with Go</li>
+    <li>Practicing Data Structures and Algorithms questions</li>
     <li>Exploring the Bevy game engine and Rust</li>
     <li>GPU programming (WebGPU API and WGSL)</li>
     <li>Procedural Sound generation</li>
@@ -47,8 +47,8 @@
 <!--- Skills Icons -->
 <p align="center">
   <a href="https://github.com/tandpfun/skill-icons">
-    <img src="https://skillicons.dev/icons?i=html,css,js,go,c,cpp,rust,py,bash" />  <br />
-    <img src="https://skillicons.dev/icons?i=postgres,express,react,nodejs,git,github,gitlab,cmake" />  <br />
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,rust,py,bash" />  <br />
+    <img src="https://skillicons.dev/icons?i=postgres,express,react,nodejs,git,github,cmake" />  <br />
     <img src="https://skillicons.dev/icons?i=webstorm,clion,neovim,vscode" />  <br />
     <img src="https://skillicons.dev/icons?i=apple,ubuntu,arch" />  <br />
     <img src="https://skillicons.dev/icons?i=bevy,godot" />
