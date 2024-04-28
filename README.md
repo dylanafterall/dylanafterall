@@ -61,4 +61,4 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=dylanafterall&repo=bevy_core_lab&theme=transparent)](https://github.com/dylanafterall/bevy_core_lab)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=dylanafterall&repo=bevy_physics_lab&theme=transparent)](https://github.com/dylanafterall/bevy_physics_lab)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=dylanafterall&repo=bevy_gpu_lab&theme=transparent)](https://github.com/dylanafterall/bevy_gpu_lab)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=dylanafterall&repo=sc_lab&theme=transparent)](https://github.com/dylanafterall/sc_lab)
