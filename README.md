@@ -1,35 +1,26 @@
 ## @ me
 
 <!--- Connect With Me Icons -->
-[![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dylanec/) &emsp;
-[![](https://skillicons.dev/icons?i=gmail)](mailto:campbell.dyl@gmail.com) &emsp;
 [![](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/dylanafterall) &emsp;
-[![](https://skillicons.dev/icons?i=mastodon)](https://mastodon.gamedev.place/@dylanafterall)
+[![](https://skillicons.dev/icons?i=mastodon)](https://mastodon.gamedev.place/@dylanafterall) &emsp;
+[![](https://skillicons.dev/icons?i=twitter)](https://bsky.app/profile/dylanafterall.bsky.social) &emsp;
 
 <pre></pre>
 
 <!--- About Me Section -->
-<h3>
-<ul>
-  <li>&emsp; :computer: &ensp; A.S. Computer Engineering, Ohlone College</li>
-  <li>&emsp; :wrench: &ensp; USN Veteran / Submariner / Engineering Laboratory Technician</li>
-  <li>&emsp; :bird: &ensp; Birdwatcher (exclusively Orioles :orange_circle::black_circle: and Ravens :purple_circle::black_circle:)</li>
-</ul>
-</h3> 
-
-<pre></pre>
 
 <h4>
-<p>I mostly use my github to explore game development projects for fun.  </br>
+<p>I mostly use my github to explore gamedev projects for fun.  </br>
   
   Current interests:
   <ul>
     <li>Practicing Data Structures and Algorithms questions</li>
-    <li>Exploring the Bevy game engine and Rust</li>
-    <li>GPU programming (WebGPU API and WGSL)</li>
-    <li>Procedural Sound generation</li>
+    <li>Exploring the Godot and Bevy game engines in C# and Rust, respectively</li>
+    <li>GPU programming (compute/fragment/vertex shaders)</li>
   </ul>
 </p>
+
+<p>I am an avid birdwatcher (though, exclusively Orioles :orange_circle::black_circle: and Ravens :purple_circle::black_circle:) </br>
 </h4>
   
 <pre></pre>
@@ -47,18 +38,17 @@
 <!--- Skills Icons -->
 <p align="center">
   <a href="https://github.com/tandpfun/skill-icons">
-    <img src="https://skillicons.dev/icons?i=html,css,js,rust,c,cpp,py,bash" />  <br />
-    <img src="https://skillicons.dev/icons?i=postgres,express,react,nodejs,git,github,cmake" />  <br />
-    <img src="https://skillicons.dev/icons?i=webstorm,clion,neovim,vscode" />  <br />
+    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,cs,rust,py,bash" />  <br />
+    <img src="https://skillicons.dev/icons?i=postgres,express,react,nodejs,git,github,gitlab,cmake" />  <br />
+    <img src="https://skillicons.dev/icons?i=webstorm,rider,clion,neovim" />  <br />
     <img src="https://skillicons.dev/icons?i=apple,ubuntu,arch" />  <br />
-    <img src="https://skillicons.dev/icons?i=bevy,godot" />
+    <img src="https://skillicons.dev/icons?i=godot,bevy" />
   </a>
 </p>
 
 <pre></pre>
 
-### Current Fun Projects:
+### Current Projects:
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=dylanafterall&repo=bevy_core_lab&theme=transparent)](https://github.com/dylanafterall/bevy_core_lab)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=dylanafterall&repo=bevy_physics_lab&theme=transparent)](https://github.com/dylanafterall/bevy_physics_lab)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=dylanafterall&repo=sc_lab&theme=transparent)](https://github.com/dylanafterall/sc_lab)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=dylanafterall&repo=cpp_lab&theme=transparent)](https://github.com/dylanafterall/cpp_lab)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=dylanafterall&repo=rust_notes&theme=transparent)](https://github.com/dylanafterall/rust_notes)
